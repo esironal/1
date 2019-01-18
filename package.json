@@ -1,0 +1,13 @@
+{
+  "name": "LigerUI",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./LigerUI.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esironal/1"
+  },
+  "dependencies": {
+    "system-runtime": "^3.1.0"
+  }
+}
